@@ -200,4 +200,4 @@ python knowledge/api/query_router.py      # http://localhost:8001
 
 ## License
 
-未指定。
+[MIT](LICENSE)
